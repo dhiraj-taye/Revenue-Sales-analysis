@@ -54,7 +54,7 @@ insights in to actionable business recommendation
 - Analyzed revenue contribution by region
 - Identified the highest-performing region
 
-![Regional Revenue](visuals/regional_revenue.png)
+![Regional Revenue](Visuals/Revenue_by_region.png)
 
 ---
 
@@ -62,9 +62,19 @@ insights in to actionable business recommendation
 - Examined customer preference for digital vs cash payments
 - Identified dominant transaction methods
 
-![Payment Method Distribution](visuals/payment_method_distribution.png)
+![Payment Method Distribution](Visuals/Revenue_by_payment.png)
 
 ---
+
+### 4️⃣ Order Value Distribution
+- Analyzed distribution of transaction amounts
+- Identified the majority of orders falling in lower-value ranges
+- Assessed opportunities to increase Average Order Value (AOV)
+
+![Order Value Distribution](Visuals/Order_value_distribution.png)
+
+---
+
 
 ## 🔍 Key Insights
 - Revenue shows growth in specific months, indicating seasonal demand.
