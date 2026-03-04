@@ -46,7 +46,7 @@ insights in to actionable business recommendation
 - Identified seasonal fluctuations
 - Visualized revenue patterns using line charts
 
-![Monthly Revenue Trend](Visuals/monthly_revenue_trend.png)
+![Monthly Revenue Trend](Visuals/Monthly_revenue_trend.png)
 
 ---
 
